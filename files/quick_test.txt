@@ -1,0 +1,12 @@
+C:\Users\ENG-LT-SL-08\Desktop\AEA-YOLO\data\quick_test\image1.png
+C:\Users\ENG-LT-SL-08\Desktop\AEA-YOLO\data\quick_test\image6.png
+C:\Users\ENG-LT-SL-08\Desktop\AEA-YOLO\data\quick_test\XR_Baidu_375_0.05.png
+C:\Users\ENG-LT-SL-08\Desktop\AEA-YOLO\data\quick_test\XR_Baidu_375_0.06.png
+C:\Users\ENG-LT-SL-08\Desktop\AEA-YOLO\data\quick_test\XR_Baidu_375_0.07.png
+C:\Users\ENG-LT-SL-08\Desktop\AEA-YOLO\data\quick_test\XR_Baidu_375_0.08.png
+C:\Users\ENG-LT-SL-08\Desktop\AEA-YOLO\data\quick_test\XR_Baidu_375_0.09.png
+C:\Users\ENG-LT-SL-08\Desktop\AEA-YOLO\data\quick_test\XR_Baidu_375_0.10.png
+C:\Users\ENG-LT-SL-08\Desktop\AEA-YOLO\data\quick_test\XR_Baidu_375_0.11.png
+C:\Users\ENG-LT-SL-08\Desktop\AEA-YOLO\data\quick_test\XR_Baidu_375_0.12.png
+C:\Users\ENG-LT-SL-08\Desktop\AEA-YOLO\data\quick_test\XR_Baidu_375_0.13.png
+C:\Users\ENG-LT-SL-08\Desktop\AEA-YOLO\data\quick_test\XR_Baidu_375_0.14.png
